@@ -29,4 +29,16 @@ public class NthFibonacciTest {
         int nthFib = NthFibonacci.getNthFibonacci(-1);
         assertTrue(nthFib == 0);
     }
+
+    @Test
+    public void test5(){
+        int nthFib = NthFibonacci.getNthFibonacci(1);
+        assertTrue(nthFib == 0);
+    }
+
+    @Test
+    public void test6(){
+        int nthFib = NthFibonacci.getNthFibonacci(2);
+        assertTrue(nthFib == 1);
+    }
 }
