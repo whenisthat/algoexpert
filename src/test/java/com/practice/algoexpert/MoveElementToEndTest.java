@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import static org.junit.Assert.assertTrue;
+
+import com.practice.algoexpert.arrays.MoveElementToEnd;
 import org.junit.Test;
 
 public class MoveElementToEndTest {

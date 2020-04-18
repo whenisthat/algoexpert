@@ -1,5 +1,6 @@
 package com.practice.algoexpert;
 
+import com.practice.algoexpert.arrays.LongestPeak;
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
 

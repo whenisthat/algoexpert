@@ -1,4 +1,4 @@
-package com.practice.algoexpert;
+package com.practice.algoexpert.arrays;
 
 public class LongestPeak {
 
